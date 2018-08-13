@@ -1,6 +1,6 @@
 # Baseball Stats Sample Web Application
 
-This web application displays baseball player salaray information for the Milwaukee Brewers and Houston Astros from 1985 to 2016.  The data is retrieved via an API call to an Azure Function app.
+This web application displays baseball player salary information for the Milwaukee Brewers and Houston Astros from 1985 to 2016.  The data is retrieved via an API call to an Azure Function app.
 
 This simple application consists of 2 files:
 * index.html - contains html to display the data and loads the required javascript
