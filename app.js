@@ -5,7 +5,7 @@ var s = new Vue({
     },
     methods: {
       getSalaries: function() {
-        axios.get("https://rawebaseballstats-api.azurewebsites.net/api/salaries?code=iLrB1RBpLVxLB/ZF3ozL3GSGSFSLmVTh4WLph2aKxn9pWYjA/v6V8Q==&yearId=" + years.selected + "&teamId=" + teams.selected)
+        axios.get("https://rawebaseballstats-api.azurewebsites.net/api/salaries?code=NfjOSIloO6NUvdy2s7Wc1ejFP/KRaCmEOxOcASfGRGybe72YR7p0Cg==&yearId=" + years.selected + "&teamId=" + teams.selected)
           .then(r => {this.salaries = r.data})
       }
     }
