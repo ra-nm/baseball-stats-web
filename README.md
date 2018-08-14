@@ -9,3 +9,5 @@ This simple application consists of 2 files:
 This application uses the following javascript libraries/frameworks:
 * [Vue.js](https://vuejs.org/) - used to create data models and bind data
 * [Axios](https://github.com/axios/axios) - used to make the api call to get the data
+
+[Try the application!](https://rawebaseballstats-web.azurewebsites.net/)
